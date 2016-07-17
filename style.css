@@ -1,0 +1,250 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+html, body{
+    background: #032a47;
+    height: 100%;
+    width: 100%;
+   }
+#header{
+  background: #032a47;
+  height: 150px;
+  width: 100%;
+}
+#delbut{
+padding: 10px;
+}
+#editbut{
+padding: 10px;
+margin: 0;
+}
+#container{
+  background: pink;
+  height: 640px;
+  width: 100%
+}
+
+#footer{
+  background: #032a47;
+  height: 10px;
+  width: 100%;
+  color: white;
+  font-family: Arial;
+  line-height: 30px;
+}
+#boxbox{
+  vertical-align: top;
+
+}
+#lftbx{
+  height: 80%;
+  background: #032a47;
+  float: left;
+  width: 15%;
+}
+#bgg{
+  height: 80%;
+  background: white;
+  float: right;
+  width: 85%;
+}
+#editsta{
+  height: 100%;
+  background: white;
+  float: right;
+  width: 85%;
+}
+#editdri{
+  height: 90%;
+  background: white;
+  float: right;
+  width: 85%;
+}
+#rtbx{
+  height: 69%;
+  background: #032a47;
+  float: right;
+  width: 85%;
+}
+#rtbx img{
+  width: 50px;
+  height: 50px;
+  border:0
+}
+#rtbx p1{
+  padding-top: 30px;
+  padding-left: 300px;
+  font-size: 15px;
+}
+
+#addbut{
+  float: right;
+  padding-right: 100px;
+  padding-top:80px;
+}
+
+#lful li a{
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Arial;
+  color: white;
+}
+#lful li a:hover{
+  color: #0b5c94;
+}
+#lful li{
+  list-style-type: none;
+  padding-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#logo{
+  background: white;
+  width: 15%;
+  height: 100%;
+  float: left;
+}
+#logotxt{
+  width: 85%;
+  height: 15%;
+  background: #032a47;
+  float: right;
+}
+#logotxt h1{
+  color: white;
+  font-family: Arial;
+  font-size: 90px;
+  padding-top: 15px;
+  margin:0;
+}
+#logotxt h3{
+  color: white;
+  font-family: Arial;
+  font-size: 30px;
+  margin:0;
+}
+
+#imglogo{
+padding-left: 30px;
+}
+#page-wrapper{
+  color: #032a47;
+  font-family: Arial;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-left: 375px;
+}
+#pageeditsta{
+  color: #032a47;
+  font-family: Arial;
+  font-size: 20px;
+  padding-top: 30px;
+
+}
+#page-wrapper a{
+
+  padding-left: 75%;
+}
+#wrap{
+  color: #032a47;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+#seroute{
+  padding-top: 0px;
+  padding-bottom: 50px;
+}
+
+#groute{
+  width: 300px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #032a47;
+  font-family: Arial;
+  text-align-last:center;
+}
+#groute option{
+color: #032a47;
+text-align-last:center;
+font-family: Arial;
+font-size: 20px;
+font-weight: bold;
+}
+table {
+    width: 100%;
+}
+
+#table2{
+  padding-top: 80px;
+}
+
+#tablesh {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+#tablesh td, #tablesh th {
+    border: 1px solid #ddd;
+    text-align: center;;
+    padding: 8px;
+}
+
+#tablesh tr:nth-child(even){background-color: #f2f2f2}
+
+#tablesh tr:hover {background-color: #ddd;}
+
+#tablesh th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #0b5c94;
+    color: white;
+}
+#addbut a{
+  padding-left: 250px;
+}
+
+
+input[type=text]:focus {
+    background-color: lightblue;
+}
+
+#add{
+  padding-top: 100px;
+}
+#add label{
+  color: #032a47;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 285px;
+}
+#la1{
+  width: 50%;
+  padding: 12px 20px;
+  margin-top: 2px;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+  color: #032a47;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+input, label {
+    display:block;
+}
+#sub{
+  padding-top: 30px;
+}
+
+span{
+  font-family: Arial;
+  font-size: 25px;
+  border-radius: 25px;
+  background: #A9AAEC;
+  padding: 10px 220px 10px 220px;
+}
